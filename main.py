@@ -1,3 +1,6 @@
+#Tip Calculator
+# It divided the bill with some tip in certain number of people.
+
 
 print("Welcome to Tip Calculator ")
 bill=float(input("What was the total bill? $"))
